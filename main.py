@@ -1,34 +1,30 @@
 import requests
 from bs4 import BeautifulSoup
+import csv
 
-base_url = 'http://quotes.toscrape.com'
-url = base_url
+url = "https://www.imdb.com/chart/top/"
+response = requests.get(url)
 
-while url:
-    response = requests.get(url)
+if response.status_code == 200:
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
+    movie_data = []
+    titles = soup.find_all('td', {'class': 'titleColumn'})
+    ratings = soup.find_all('td', {'class': 'ratingColumn imdbRating'})
 
-        # Extraire les auteurs des citations
-        auteurs = soup.find_all('small', {'class': 'author'})
+    for i in range(len(titles)):
+        title = titles[i].find('a').text
+        year = titles[i].find('span', {'class': 'secondaryInfo'}).text
+        rating = ratings[i].find('strong').text
 
-        # Afficher les auteurs mais sans doublons mais vérifier si l'auteur est déjà dans la liste
-        for auteur in auteurs:
-            if auteur not in auteurs:
-                auteurs.append(auteur)
-        print(auteur.text)
+        movie_data.append((title, year, rating))
 
-        # Trouver le lien vers la page suivante
-        next_page = soup.find('li', {'class': 'next'})
+    with open('movies.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        csv_writer.writerow(['Title', 'Year', 'Rating'])
 
-        if next_page:
-            # Récupérer l'URL de la page suivante et mettre à jour l'URL pour le prochain tour de boucle
-            url = base_url + next_page.find('a')['href']
-        else:
-            # S'il n'y a pas de page suivante, mettre fin à la boucle
-            url = None
+        for movie in movie_data:
+            csv_writer.writerow(movie)
 
-    else:
-        print("Erreur lors de la récupération de la page")
-        url = None
+else:
+    print("Erreur lors de la récupération de la page")
