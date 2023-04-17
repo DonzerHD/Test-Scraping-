@@ -1,104 +1,251 @@
 genre,title
-,The Shawshank Redemption
-,The Godfather
-,The Dark Knight
-,The Godfather Part II
-,Hotel Rwanda
-,Platoon
-,Rocky
-,Ratatouille
-,Dances with Wolves
-,Dersu Uzala
-,Aladdin
-,The Help
-,The Iron Giant
-,Life of Brian
-,Persona
-,It Happened One Night
-,The 400 Blows
-,The Sound of Music
-,The Handmaiden
-,Cool Hand Luke
-,Rebecca
-,Amores Perros
-,My Father and My Son
-,Jai Bhim
-,The Grapes of Wrath
-,The Battle of Algiers
-,Hachi: A Dog's Tale
-,Pather Panchali
-,Pirates of the Caribbean: The Curse of the Black Pearl
-,La haine
-,To Be or Not to Be
-,The Incredibles
-,Groundhog Day
-,The Exorcist
-,The Best Years of Our Lives
-,The Wizard of Oz
-,Into the Wild
-,Before Sunset
-,Network
-,Rush
-,Stand by Me
-,The Terminator
-,Logan
-,Spotlight
-,Ford v Ferrari
-,The Passion of Joan of Arc
-,Tokyo Story
-,The Big Lebowski
-,Room
-,Jaws
-,Dead Poets Society
-,"Monsters, Inc."
-,How to Train Your Dragon
-,The Seventh Seal
-,Mary and Max
-,Mad Max: Fury Road
-,Mr. Smith Goes to Washington
-,Sherlock Jr.
-,Wild Tales
-,Memories of Murder
-,The Wages of Fear
-,Hacksaw Ridge
-,The Third Man
-,The Deer Hunter
-,In the Name of the Father
-,Barry Lyndon
-,The General
-,Wild Strawberries
-,Gone Girl
-,The Grand Budapest Hotel
-,On the Waterfront
-,Ben-Hur
-,12 Years a Slave
-,Before Sunrise
-,Harry Potter and the Deathly Hallows: Part 2
-,Klaus
-,The Gold Rush
-,Blade Runner
-,Children of Heaven
-,Million Dollar Baby
-,My Neighbor Totoro
-,Catch Me If You Can
-,John Wick: Chapter 4
-,Gran Torino
-,Warrior
-,Fargo
-,Prisoners
-,The Bridge on the River Kwai
-,Trainspotting
-,"Three Billboards Outside Ebbing, Missouri"
-,Howl's Moving Castle
-,The Secret in Their Eyes
-,Inside Out
-,Dial M for Murder
-,"Lock, Stock and Two Smoking Barrels"
-,Gone with the Wind
-,V for Vendetta
-,Raging Bull
-,Chinatown
-,The Elephant Man
-,Finding Nemo
-,Spider-Man: No Way Home
-,The Thing
+Drama,The Shawshank Redemption
+"Crime,Drama",The Godfather
+"Action,Crime,Drama",The Dark Knight
+"Crime,Drama",The Godfather Part II
+Drama,The Grapes of Wrath
+"Drama,Family",My Father and My Son
+"Crime,Drama,Mystery",Jai Bhim
+"Drama,War",The Battle of Algiers
+"Biography,Drama,Family",Hachi: A Dog's Tale
+"Adventure,Drama,Western",Dances with Wolves
+"Adventure,Biography,Drama",Dersu Uzala
+"Animation,Adventure,Comedy",Aladdin
+Drama,The Help
+"Animation,Action,Adventure",The Iron Giant
+Comedy,Life of Brian
+"Drama,Thriller",Persona
+"Comedy,Romance",It Happened One Night
+"Crime,Drama",The 400 Blows
+"Biography,Drama,Family",The Sound of Music
+"Crime,Drama",Cool Hand Luke
+"Drama,Romance,Thriller",The Handmaiden
+"Drama,Film-Noir,Mystery",Rebecca
+"Drama,Thriller",Amores Perros
+Drama,Pather Panchali
+"Action,Adventure,Fantasy",Pirates of the Caribbean: The Curse of the Black Pearl
+"Crime,Drama",La haine
+"Comedy,Romance,War",To Be or Not to Be
+"Animation,Action,Adventure",The Incredibles
+"Comedy,Drama,Fantasy",Groundhog Day
+Horror,The Exorcist
+"Drama,Romance,War",The Best Years of Our Lives
+"Adventure,Family,Fantasy",The Wizard of Oz
+"Adventure,Biography,Drama",Into the Wild
+"Drama,Romance",Before Sunset
+Drama,Network
+"Action,Biography,Drama",Rush
+"Adventure,Drama",Stand by Me
+"Action,Sci-Fi",The Terminator
+"Action,Drama,Sci-Fi",Logan
+"Biography,Crime,Drama",Spotlight
+"Animation,Adventure,Comedy",Ratatouille
+"Drama,War",Platoon
+"Drama,Sport",Rocky
+"Biography,Drama,History",Hotel Rwanda
+"Action,Biography,Drama",Ford v Ferrari
+"Biography,Drama,History",The Passion of Joan of Arc
+Drama,Tokyo Story
+"Comedy,Crime",The Big Lebowski
+"Drama,Thriller",Room
+"Adventure,Thriller",Jaws
+"Comedy,Drama",Dead Poets Society
+"Animation,Adventure,Comedy","Monsters, Inc."
+"Animation,Action,Adventure",How to Train Your Dragon
+"Drama,Fantasy",The Seventh Seal
+"Animation,Comedy,Drama",Mary and Max
+"Action,Adventure,Sci-Fi",Mad Max: Fury Road
+"Comedy,Drama",Mr. Smith Goes to Washington
+"Action,Comedy,Romance",Sherlock Jr.
+"Comedy,Drama,Thriller",Wild Tales
+"Crime,Drama,Mystery",Memories of Murder
+"Adventure,Drama,Thriller",The Wages of Fear
+"Biography,Drama,History",Hacksaw Ridge
+"Film-Noir,Mystery,Thriller",The Third Man
+"Drama,War",The Deer Hunter
+"Biography,Crime,Drama",In the Name of the Father
+"Adventure,Drama,War",Barry Lyndon
+"Action,Adventure,Comedy",The General
+"Drama,Romance",Wild Strawberries
+"Drama,Mystery,Thriller",Gone Girl
+"Adventure,Comedy,Crime",The Grand Budapest Hotel
+"Crime,Drama,Thriller",On the Waterfront
+"Adventure,Drama",Ben-Hur
+"Biography,Drama,History",12 Years a Slave
+"Drama,Romance",Before Sunrise
+"Adventure,Family,Fantasy",Harry Potter and the Deathly Hallows: Part 2
+"Animation,Adventure,Comedy",Klaus
+"Adventure,Comedy,Drama",The Gold Rush
+"Action,Drama,Sci-Fi",Blade Runner
+"Drama,Family,Sport",Children of Heaven
+"Biography,Crime,Drama",Catch Me If You Can
+"Action,Crime,Thriller",John Wick: Chapter 4
+Drama,Gran Torino
+"Action,Drama,Sport",Warrior
+"Crime,Thriller",Fargo
+"Crime,Drama,Mystery",Prisoners
+"Adventure,Drama,War",The Bridge on the River Kwai
+Drama,Trainspotting
+"Comedy,Crime,Drama","Three Billboards Outside Ebbing, Missouri"
+"Drama,Sport",Million Dollar Baby
+"Animation,Comedy,Family",My Neighbor Totoro
+"Animation,Adventure,Family",Howl's Moving Castle
+"Drama,Mystery,Romance",The Secret in Their Eyes
+"Animation,Adventure,Comedy",Inside Out
+"Crime,Thriller",Dial M for Murder
+"Action,Comedy,Crime","Lock, Stock and Two Smoking Barrels"
+"Drama,Romance,War",Gone with the Wind
+"Action,Drama,Sci-Fi",V for Vendetta
+"Biography,Drama,Sport",Raging Bull
+"Drama,Mystery,Thriller",Chinatown
+"Biography,Drama",The Elephant Man
+"Animation,Adventure,Comedy",Finding Nemo
+"Action,Adventure,Fantasy",Spider-Man: No Way Home
+"Horror,Mystery,Sci-Fi",The Thing
+"Crime,Drama,Mystery",Rashomon
+"Action,Crime,Drama",Kill Bill: Vol. 1
+"Adventure,Drama,History",The Great Escape
+"Crime,Drama,Thriller",No Country for Old Men
+"Adventure,Comedy,Fantasy",Monty Python and the Holy Grail
+"Adventure,Drama,Western",The Treasure of the Sierra Madre
+"Action,Drama,Thriller",Yojimbo
+"Action,Adventure,Sci-Fi",Jurassic Park
+"Biography,Drama",A Beautiful Mind
+"Mystery,Thriller",Shutter Island
+"Drama,Mystery,Thriller",The Sixth Sense
+"Drama,Western",Unforgiven
+"Drama,Fantasy,War",Pan's Labyrinth
+Drama,There Will Be Blood
+"Comedy,Drama",The Truman Show
+"Crime,Drama",Casino
+"Action,Drama,War",Ran
+"Drama,War",Judgment at Nuremberg
+"Biography,Comedy,Drama",Green Book
+"Biography,Comedy,Crime",The Wolf of Wall Street
+Drama,All About Eve
+"Drama,Mystery",The Father
+"Comedy,Music,Romance",Some Like It Hot
+"Comedy,Drama,Family",The Kid
+"Action,Crime,Drama",Batman Begins
+Western,For a Few Dollars More
+"Biography,Drama,Sport",Dangal
+"Biography,Drama,History",Downfall
+"Action,Drama",Top Gun: Maverick
+"Action,Drama,War",1917
+"Drama,Family",Like Stars on Earth
+Drama,Bicycle Thieves
+"Comedy,Crime",Snatch
+"Action,Adventure",Indiana Jones and the Last Crusade
+"Action,Thriller",Die Hard
+"Crime,Drama",Taxi Driver
+"Crime,Drama,Mystery",L.A. Confidential
+"Drama,Sci-Fi",Metropolis
+Drama,A Separation
+"Comedy,Crime,Drama",The Sting
+"Animation,Adventure,Comedy",Up
+"Crime,Drama",To Kill a Mockingbird
+"Action,Crime,Drama",Heat
+"Drama,Mystery",Incendies
+"Biography,Drama,History",Hamilton
+"Crime,Drama",Scarface
+"Drama,War",Full Metal Jacket
+"Crime,Sci-Fi",A Clockwork Orange
+"Crime,Drama,Film-Noir",Double Indemnity
+"Comedy,Romance",Amélie
+"Comedy,Drama,Romance",The Apartment
+"Mystery,Romance,Thriller",Vertigo
+"Action,Adventure,Mystery",North by Northwest
+Drama,Ikiru
+"Crime,Mystery,Thriller",M
+"Adventure,Biography,Drama",Lawrence of Arabia
+"Drama,Mystery",Citizen Kane
+Drama,The Hunt
+"Crime,Thriller",Reservoir Dogs
+"Drama,Thriller,War",Come and See
+"Drama,Romance,Sci-Fi",Eternal Sunshine of the Spotless Mind
+"Adventure,Sci-Fi",2001: A Space Odyssey
+"Action,Adventure,Fantasy",Star Wars: Episode VI - Return of the Jedi
+Drama,Capernaum
+"Animation,Adventure,Comedy",Toy Story 3
+"Crime,Drama,Mystery",High and Low
+Drama,Requiem for a Dream
+"Comedy,Drama",3 Idiots
+"Comedy,Musical,Romance",Singin' in the Rain
+"Animation,Drama,Fantasy",Your Name.
+"Drama,Romance",Good Will Hunting
+"Crime,Drama",Once Upon a Time in America
+"Animation,Action,Adventure",Princess Mononoke
+"Action,Adventure,Drama",Avengers: Endgame
+"Drama,War",Das Boot
+"Crime,Drama,Thriller",Joker
+"Biography,Drama,History",Braveheart
+"Animation,Adventure,Comedy",Toy Story
+"Animation,Adventure,Comedy",Coco
+"Biography,Drama,Music",Amadeus
+"Adventure,Drama,War",Inglourious Basterds
+"Action,Drama,Mystery",Oldboy
+"Action,Drama,Thriller",The Dark Knight Rises
+"Comedy,War",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Drama,American Beauty
+"Animation,Action,Adventure",Spider-Man: Into the Spider-Verse
+"Action,Adventure,Sci-Fi",Aliens
+"Crime,Drama,Mystery",Witness for the Prosecution
+"Comedy,Drama,War",The Great Dictator
+"Action,Adventure,Sci-Fi",Avengers: Infinity War
+"Drama,Horror",The Shining
+"Drama,War",Paths of Glory
+"Drama,Film-Noir",Sunset Blvd.
+"Drama,Mystery,Thriller",The Lives of Others
+"Animation,Adventure,Family",WALL·E
+"Action,Adventure",Raiders of the Lost Ark
+"Drama,Western",Django Unchained
+"Mystery,Thriller",Memento
+"Drama,Mystery,War",Apocalypse Now
+"Comedy,Drama,Romance",City Lights
+"Mystery,Thriller",Rear Window
+"Horror,Sci-Fi",Alien
+"Drama,Romance",Cinema Paradiso
+Western,Once Upon a Time in the West
+"Comedy,Drama,Romance",Modern Times
+"Biography,Comedy,Drama",The Intouchables
+"Action,Drama,Mystery",Harakiri
+"Animation,Drama,War",Grave of the Fireflies
+"Drama,Romance,War",Casablanca
+"Crime,Drama,Mystery",The Usual Suspects
+"Drama,Mystery,Sci-Fi",The Prestige
+"Drama,Music",Whiplash
+"Crime,Drama,Thriller",The Departed
+"Crime,Drama",American History X
+"Action,Adventure,Drama",Gladiator
+"Animation,Adventure,Drama",The Lion King
+"Action,Crime,Drama",Léon: The Professional
+"Drama,Thriller",Parasite
+"Horror,Mystery,Thriller",Psycho
+"Biography,Drama,Music",The Pianist
+"Animation,Adventure,Family",Spirited Away
+"Adventure,Comedy,Sci-Fi",Back to the Future
+"Action,Sci-Fi",Terminator 2: Judgment Day
+"Action,Adventure,Fantasy",Star Wars: Episode IV - A New Hope
+"Crime,Drama,Fantasy",The Green Mile
+"Comedy,Drama,Romance",Life Is Beautiful
+"Adventure,Drama,Sci-Fi",Interstellar
+"Crime,Drama",City of God
+"Drama,War",Saving Private Ryan
+"Action,Adventure,Drama",The Lord of the Rings: The Return of the King
+"Biography,Drama,History",Schindler's List
+"Crime,Drama",12 Angry Men
+"Crime,Drama,Thriller",The Silence of the Lambs
+"Action,Drama",Seven Samurai
+"Drama,Family,Fantasy",It's a Wonderful Life
+"Crime,Drama,Mystery",Se7en
+Drama,One Flew Over the Cuckoo's Nest
+"Biography,Crime,Drama",Goodfellas
+"Action,Sci-Fi",The Matrix
+"Action,Adventure,Fantasy",Star Wars: Episode V - The Empire Strikes Back
+"Action,Adventure,Sci-Fi",Inception
+"Action,Adventure,Drama",The Lord of the Rings: The Two Towers
+Drama,Fight Club
+"Drama,Romance",Forrest Gump
+"Adventure,Western","The Good, the Bad and the Ugly"
+"Action,Adventure,Drama",The Lord of the Rings: The Fellowship of the Ring
+"Crime,Drama",Pulp Fiction
